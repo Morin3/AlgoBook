@@ -5,3 +5,4 @@ numpy==1.18.2
 opencv-python==4.1.0.25
 matplotlib==3.2.1
 scipy==1.4.1
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
